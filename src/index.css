@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+*{
+    font-family: 'Outfit', sans-serif;
+}
+
+.btn{
+    @apply  bg-white px-8 py-2 rounded-full hover:bg-transparent border border-white hover:text-white cursor-pointer text-black transition-all duration-300 ease-in-out;
+}
+.btn-2{
+    @apply  px-8 py-3 rounded bg-transparent text-white border border-white hover:bg-blue-500
+    transition-all duration-300 ease-in-out;
+}
+.btn-3{
+    @apply bg-blue-600 text-white px-8 py-2 rounded cursor-pointer border border-blue-600 hover:bg-white hover:text-blue-600
+}
