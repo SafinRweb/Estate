@@ -1,12 +1,17 @@
-# React + Vite
+# 🏡 Estate — Real Estate Landing Page (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Estate** is a modern and responsive real estate landing page built using **React**, **Tailwind CSS**, and **JavaScript**. The design is sleek, minimal, and built to convert visitors into clients. This project also includes smooth animations with **Framer Motion**, interactive alerts with **React Toastify**, and a fully functional **email contact form** that lets users reach out directly.
 
-Currently, two official plugins are available:
+## ✨ Features
+- Fully responsive layout
+- Clean and modern UI
+- Built with React + Tailwind CSS
+- Animated elements using Framer Motion
+- Email form with real-time mail functionality
+- Notifications using React Toastify
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> If you're running a real estate business and your current site still looks like it was built in the 90s — **that's why I'm alive.**  
+> Want a landing page like this?  
+📧 Email me: **Safinr.gg@gmail.com**
